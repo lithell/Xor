@@ -79,3 +79,4 @@
 0.0.0.0 www.softmajhe.com
 0.0.0.0 awersomecheat.com
 0.0.0.0 www.awersomecheat.com
+0.0.0.0 joxarea.net
